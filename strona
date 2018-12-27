@@ -1,0 +1,25 @@
+<html>
+<head>
+<title>Strona Jasia</title>
+<link rel="Shortout icon" href="images/pl.png" />
+<link type="text/css" rel="stylesheet" href="style.css"/>
+<div id="logo">
+<h1>Strona Jasia</h1>
+<p>Strona zrobiona przez Jasia </p>
+</div>
+<body bgcolor="red" text="green">
+<rozmiar czcionki=40> <kolor czcionki=pomarańczowy> Jan Dembowski</font>
+<p> <rozmiar czcionki=20
+<hr>
+Jak <p>
+tam? <p>
+<hr size =8>
+</p>
+<img src ="C:\Users\user\Desktop\janinka\html.png" alt ="brak pobranego zdjęcia">
+
+
+
+
+</body>
+</head>
+</html>
